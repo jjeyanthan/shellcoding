@@ -8,7 +8,7 @@ some shellcode
 You can use the small python script 'extract_shellcode.py' on the .bin file !
 
 
-# hello_world_86
+# hello_world_x86
 It is a simple shellcode for printing Hello World using the jmp-call-pop technique. 
 
 Size: 37 bytes 
@@ -19,13 +19,13 @@ shellcode to read the content of "flag.txt" (not optimal yet)
 Size: 51 bytes
 
 
-# shell_without_priv
+# shell_without_priv_x86
 
 simple shell but you will not have the same privilege that your suid binary for exemple.
 
 Size: 25 bytes 
 
-# shell_with_priv
+# shell_with_priv_x86
 
 You will get a shell with the same privilege that your suid binary.
 
