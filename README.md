@@ -34,10 +34,10 @@ Size: 37 bytes
 
 
 # resource in french : 
-	-> https://zestedesavoir.com/articles/158/ecrivez-votre-premier-shellcode-en-asm-x86/
-	-> https://podalirius.net/fr/articles/unix-shells-dropping-suid-rights-in-shellcodes/
+	 https://zestedesavoir.com/articles/158/ecrivez-votre-premier-shellcode-en-asm-x86/
+	 https://podalirius.net/fr/articles/unix-shells-dropping-suid-rights-in-shellcodes/
 	
 # resource in english :	
-	-> https://podalirius.net/en/articles/unix-shells-dropping-suid-rights-in-shellcodes/
+	 https://podalirius.net/en/articles/unix-shells-dropping-suid-rights-in-shellcodes/
 
 	 
